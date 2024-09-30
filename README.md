@@ -5,6 +5,7 @@
 HTML 📝
 CSS 🎨
 JavaScript 💻
+
 Description:
 
 This fun calculator project features a user-friendly interface built using HTML, CSS, and JavaScript.
