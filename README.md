@@ -1,5 +1,4 @@
-# Calculator
-# Project Title: 🎉 Fun Calculator
+# 🎉 Fun Calculator
 
 # Languages Used:
 
